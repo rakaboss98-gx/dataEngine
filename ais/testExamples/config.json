@@ -1,0 +1,5 @@
+{
+    "aistreamKey": "481fc3b84c6fd8300131eed9ed6b0a99b17e57db",
+    "messageType": "PositionReport",
+    "pathToGeoJson": "testExamples/sample.geojson"
+}
